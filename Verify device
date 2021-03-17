@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T10:13:25.640Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Hxy13MsddG2LrkHZfoOV" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T10:21:46.301Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lPH-CK0CyskZf6ZWwnZ7" version="14.4.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1983" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2450" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="629.71" y="91.08" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HE0JqB9OlYGy0yj_iH_c-2" value="Policy-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="869.71" y="91.08" width="120" height="50" as="geometry" />
+          <mxGeometry x="865" y="91.08" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HE0JqB9OlYGy0yj_iH_c-3" value="Zalopay-frontend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1130" y="91" width="120" height="50" as="geometry" />
@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="HE0JqB9OlYGy0yj_iH_c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" parent="1" source="HE0JqB9OlYGy0yj_iH_c-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="2090" as="targetPoint" />
+            <mxPoint x="1190" y="2419.1666666666665" as="targetPoint" />
             <mxPoint x="1190" y="2.9999999999999982" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -884,7 +884,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="820" width="10" height="1080" as="geometry" />
+          <mxGeometry x="1185" y="820" width="10" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1086,9 +1086,9 @@
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-94" value="Intergration-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1750" y="91.08" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DLSd4NUBcUmt-BOiDNJA-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="DLSd4NUBcUmt-BOiDNJA-94">
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="DLSd4NUBcUmt-BOiDNJA-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1809.71" y="2100.08" as="targetPoint" />
+            <mxPoint x="1810" y="2722.3529411764707" as="targetPoint" />
             <mxPoint x="1810" y="3.0799999999999983" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -1098,7 +1098,7 @@
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-97" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1195" y="1879.4299999999998" as="sourcePoint" />
-            <mxPoint x="1420.29" y="1879.83" as="targetPoint" />
+            <mxPoint x="1810" y="1880" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1380.29" y="1879.4300000000003" />
             </Array>
@@ -1177,6 +1177,34 @@
         </mxCell>
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-116" value="18.2. Open page Expired" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1586.0000000000005" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1805" y="1880" width="10" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="1" source="DLSd4NUBcUmt-BOiDNJA-94" target="DLSd4NUBcUmt-BOiDNJA-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1809.71" y="2100.08" as="targetPoint" />
+            <mxPoint x="1810" y="141.07999999999993" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="1956.3299999999997" as="targetPoint" />
+            <mxPoint x="1820.5500000000002" y="1916.0299999999997" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1845.55" y="1916.0299999999997" />
+              <mxPoint x="1845.55" y="1956.0299999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-118" value="7. Encrypt quotation code&lt;br&gt;and update Insured&lt;br&gt;member device" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1855.29" y="1910" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-119" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1916" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSd4NUBcUmt-BOiDNJA-122" value="&lt;b&gt;Validation for link Verify&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;sketch=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="900" width="60" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
