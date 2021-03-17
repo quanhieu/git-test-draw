@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:14:11.722Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Kn6pxQGVV4yqQnyNBgA9" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T11:14:32.169Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AacQtawZtB00dYPjSwvH" version="14.4.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2210" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1983" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1347,18 +1347,6 @@
         </mxCell>
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-158" value="&lt;b&gt;Validation for link Verify&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;sketch=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="895" y="2035" width="60" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="DLSd4NUBcUmt-BOiDNJA-159" value="22. Validate image and &lt;br&gt;Upload image Verify device" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="399.30999999999995" y="2102.97" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DLSd4NUBcUmt-BOiDNJA-160" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="384.30999999999995" y="2138.57" as="sourcePoint" />
-            <mxPoint x="689.31" y="2139.14" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="569.5999999999999" y="2138.57" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="DLSd4NUBcUmt-BOiDNJA-162" value="24.1 Response result access" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="950.62" y="2160" width="170" height="20" as="geometry" />
