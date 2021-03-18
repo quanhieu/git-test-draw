@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T04:50:40.032Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9WkKCr9wbvAVoSFHOf7f" version="14.4.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-18T04:51:23.965Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="z-1Y0IRepy51xo5SqTW5" version="14.4.8" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1334" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -760,7 +760,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="Buy IM device and create Verify link">
-    <mxGraphModel dx="762" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xV1s1Q8Fkng-aYNvMC4j-0" />
         <mxCell id="xV1s1Q8Fkng-aYNvMC4j-1" parent="xV1s1Q8Fkng-aYNvMC4j-0" />
@@ -900,7 +900,7 @@
         <mxCell id="H0IbnbXUrl2h48KqgnNz-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="515" y="1004" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="H0IbnbXUrl2h48KqgnNz-33" value="12. Open a Insured member device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
+        <mxCell id="H0IbnbXUrl2h48KqgnNz-33" value="14. Open a Insured member device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="304.71000000000004" y="980" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0IbnbXUrl2h48KqgnNz-34" value="" style="endArrow=classic;html=1;entryX=-0.2;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xV1s1Q8Fkng-aYNvMC4j-1" target="H0IbnbXUrl2h48KqgnNz-32">
@@ -919,13 +919,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H0IbnbXUrl2h48KqgnNz-36" value="13. Get Insured member device&lt;br&gt;include quotation code and&lt;br&gt;&lt;span style=&quot;background-color: rgb(32 , 42 , 47) ; color: rgb(151 , 167 , 200) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px&quot;&gt;inspection_hash_token&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
+        <mxCell id="H0IbnbXUrl2h48KqgnNz-36" value="15. Get Insured member device&lt;br&gt;include quotation code and&lt;br&gt;&lt;span style=&quot;background-color: rgb(32 , 42 , 47) ; color: rgb(151 , 167 , 200) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px&quot;&gt;inspection_hash_token&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="565" y="997" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H0IbnbXUrl2h48KqgnNz-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="519.71" y="1004" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H0IbnbXUrl2h48KqgnNz-39" value="14. Response Insured member&lt;br&gt;device item and&amp;nbsp; Display verify link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
+        <mxCell id="H0IbnbXUrl2h48KqgnNz-39" value="16. Response Insured member&lt;br&gt;device item and&amp;nbsp; Display verify link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="302.71" y="1064" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H0IbnbXUrl2h48KqgnNz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="xV1s1Q8Fkng-aYNvMC4j-1" source="H0IbnbXUrl2h48KqgnNz-28">
@@ -941,7 +941,7 @@
             <mxPoint x="300" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bFaWgWHio0kuSG4ZKQvL-1" value="11. Response status create policy&amp;nbsp;&lt;br&gt;Insured member device" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
+        <mxCell id="bFaWgWHio0kuSG4ZKQvL-1" value="13. Response status create policy&amp;nbsp;&lt;br&gt;Insured member device" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
           <mxGeometry x="304.71" y="860" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TXaYZxHtPr02mMgdfjp5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=-0.071;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xV1s1Q8Fkng-aYNvMC4j-1">
