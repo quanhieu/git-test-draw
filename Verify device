@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T08:34:55.836Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="u1C8UqhYgxIRr9G3vlXF" version="14.4.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-18T08:35:49.593Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mKi4lgUEvPlkGFR3Toaa" version="14.4.8" type="github" pages="4">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="762" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1009,7 +1009,7 @@
         <mxCell id="kUDXvSqCgdYiSp-fBsIK-132" value="10. Show page Verify fail&lt;span style=&quot;color: rgb(91 , 134 , 225) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px ; background-color: rgb(52 , 56 , 58)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
           <mxGeometry x="455" y="1794.96" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KvbW8Q5gu1oiN4CUvN5Y-0" value="Policy-frontend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
+        <mxCell id="KvbW8Q5gu1oiN4CUvN5Y-0" value="Policy-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
           <mxGeometry x="70" y="1240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KvbW8Q5gu1oiN4CUvN5Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="kUDXvSqCgdYiSp-fBsIK-1" source="KvbW8Q5gu1oiN4CUvN5Y-2">
@@ -1042,7 +1042,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="us4CF_A636S8ZcYKL7rQ-3" value="7. Response inspection status" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
-          <mxGeometry x="149.99999999999994" y="1580" width="180" height="20" as="geometry" />
+          <mxGeometry x="169.99999999999994" y="1580" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="us4CF_A636S8ZcYKL7rQ-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
           <mxGeometry x="130" y="1630.0000000000002" width="10" height="60" as="geometry" />
@@ -1058,7 +1058,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="us4CF_A636S8ZcYKL7rQ-6" value="8. Update inspection status for&lt;br&gt;Insured member device&lt;span style=&quot;color: rgb(91 , 134 , 225) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px ; background-color: rgb(52 , 56 , 58)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kUDXvSqCgdYiSp-fBsIK-1">
-          <mxGeometry x="175" y="1624.8400000000001" width="180" height="30" as="geometry" />
+          <mxGeometry x="170" y="1630.0000000000002" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="us4CF_A636S8ZcYKL7rQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0.574;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.965;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kUDXvSqCgdYiSp-fBsIK-1" source="kUDXvSqCgdYiSp-fBsIK-114" target="kUDXvSqCgdYiSp-fBsIK-51">
           <mxGeometry relative="1" as="geometry">
