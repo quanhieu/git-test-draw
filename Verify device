@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T04:54:14.068Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="x7DvUhwuXyQX0qKqKULb" version="14.4.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-19T04:55:55.315Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DnMbVE3F65mBNfM35gsE" version="14.4.9" type="github" pages="7">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2210,7 +2210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3. Detect broken device" id="FIvimX2FTNBHuS8iWIUy">
-    <mxGraphModel dx="2450" dy="-152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3117" dy="243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-0" />
         <mxCell id="unv5_JL1hdb9xAu2UXGH-1" parent="unv5_JL1hdb9xAu2UXGH-0" />
@@ -2321,51 +2321,51 @@
           <mxGeometry x="405" y="1200" width="10" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-25" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="325" y="2010" width="315" height="210" as="geometry" />
+          <mxGeometry x="325" y="1930" width="315" height="210" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-26" value="[Success]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="330" y="2060" width="70" height="20" as="geometry" />
+          <mxGeometry x="330" y="1980" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="410" y="2040.0000000000002" width="10" height="60" as="geometry" />
+          <mxGeometry x="410" y="1960.0000000000002" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="unv5_JL1hdb9xAu2UXGH-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="2080.3199999999997" as="targetPoint" />
-            <mxPoint x="420.5499999999997" y="2040.0199999999998" as="sourcePoint" />
+            <mxPoint x="420" y="2000.3199999999997" as="targetPoint" />
+            <mxPoint x="420.5499999999997" y="1960.0199999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="445.4000000000001" y="2040.4000000000003" />
-              <mxPoint x="445.4000000000001" y="2080.4000000000005" />
+              <mxPoint x="445.4000000000001" y="1960.4000000000003" />
+              <mxPoint x="445.4000000000001" y="2000.4000000000005" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-29" value="13. Show page Verify successfully&lt;span style=&quot;color: rgb(91 , 134 , 225) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px ; background-color: rgb(52 , 56 , 58)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="455" y="2040.0000000000002" width="200" height="20" as="geometry" />
+          <mxGeometry x="455" y="1960.0000000000002" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="unv5_JL1hdb9xAu2UXGH-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="2185.2799999999993" as="targetPoint" />
-            <mxPoint x="420.5499999999997" y="2144.9799999999996" as="sourcePoint" />
+            <mxPoint x="420" y="2105.2799999999993" as="targetPoint" />
+            <mxPoint x="420.5499999999997" y="2064.9799999999996" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="445.4000000000001" y="2145.36" />
-              <mxPoint x="445.4000000000001" y="2185.36" />
+              <mxPoint x="445.4000000000001" y="2065.36" />
+              <mxPoint x="445.4000000000001" y="2105.36" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-31" value="[Fail]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="330" y="2140" width="40" height="20" as="geometry" />
+          <mxGeometry x="330" y="2060" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="410" y="2144.96" width="10" height="60" as="geometry" />
+          <mxGeometry x="410" y="2064.96" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-33" value="" style="endArrow=none;dashed=1;html=1;exitX=0.001;exitY=0.789;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="unv5_JL1hdb9xAu2UXGH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325.0000000000009" y="2120.01" as="sourcePoint" />
-            <mxPoint x="640.2200000000003" y="2120" as="targetPoint" />
+            <mxPoint x="325.0000000000009" y="2040.0100000000002" as="sourcePoint" />
+            <mxPoint x="640.2200000000003" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-34" value="14. Show page Verify fail&lt;span style=&quot;color: rgb(91 , 134 , 225) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 11px ; background-color: rgb(52 , 56 , 58)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
-          <mxGeometry x="455" y="2144.96" width="150" height="20" as="geometry" />
+          <mxGeometry x="455" y="2064.96" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unv5_JL1hdb9xAu2UXGH-35" value="Policy-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="unv5_JL1hdb9xAu2UXGH-1">
           <mxGeometry x="-210" y="1100.08" width="120" height="50" as="geometry" />
