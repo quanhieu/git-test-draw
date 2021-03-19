@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T05:05:02.397Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cWCCf3eXfAeUwmqQF_0b" version="14.4.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-19T06:31:49.605Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KosconO6-pu9tFFESGvv" version="14.4.9" type="github" pages="8">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2600,7 +2600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3.3 Detect broken device" id="MZFGT0RhiUAAL_axEayD">
-    <mxGraphModel dx="2210" dy="-294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2793" dy="51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-0" />
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-1" parent="TBOAT7yt58Y0nQp3_HVj-0" />
@@ -2680,7 +2680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="715" y="1207" width="10" height="833" as="geometry" />
+          <mxGeometry x="715" y="1207" width="10" height="823" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-18" value="9. Request to Datascient-service" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
           <mxGeometry x="1050" y="1534.6099999999997" width="190" height="20" as="geometry" />
@@ -2711,10 +2711,10 @@
           <mxGeometry x="405" y="1200" width="10" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-23" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="325" y="1880" width="455" height="270" as="geometry" />
+          <mxGeometry x="-240" y="1880" width="1020" height="270" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-24" value="[Success]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="325" y="1912.46" width="70" height="20" as="geometry" />
+          <mxGeometry x="-230" y="1917.46" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
           <mxGeometry x="410" y="1950.0000000000002" width="10" height="60" as="geometry" />
@@ -2743,7 +2743,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-29" value="[Fail]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="330" y="2052.46" width="40" height="20" as="geometry" />
+          <mxGeometry x="-230" y="2047.46" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
           <mxGeometry x="410" y="2057.42" width="10" height="60" as="geometry" />
@@ -2828,20 +2828,22 @@
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-45" value="11. Response result" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
           <mxGeometry x="751.3299999999999" y="1790" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TBOAT7yt58Y0nQp3_HVj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.033;exitY=0.805;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.14;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TBOAT7yt58Y0nQp3_HVj-1" source="TBOAT7yt58Y0nQp3_HVj-13" target="TBOAT7yt58Y0nQp3_HVj-17">
+        <mxCell id="TBOAT7yt58Y0nQp3_HVj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.033;exitY=0.805;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TBOAT7yt58Y0nQp3_HVj-1" source="TBOAT7yt58Y0nQp3_HVj-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1025" y="1811" />
             </Array>
             <mxPoint x="985" y="1809.75345" as="sourcePoint" />
-            <mxPoint x="750" y="1811" as="targetPoint" />
+            <mxPoint x="726" y="1811" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TBOAT7yt58Y0nQp3_HVj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0.371;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TBOAT7yt58Y0nQp3_HVj-1" source="TBOAT7yt58Y0nQp3_HVj-74" target="TBOAT7yt58Y0nQp3_HVj-71">
+        <mxCell id="TBOAT7yt58Y0nQp3_HVj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0.672;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TBOAT7yt58Y0nQp3_HVj-1" source="TBOAT7yt58Y0nQp3_HVj-74" target="TBOAT7yt58Y0nQp3_HVj-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149" y="2030" as="targetPoint" />
+            <mxPoint x="169" y="2060" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="2041" />
+              <mxPoint x="169" y="2041" />
+              <mxPoint x="169" y="2073" />
             </Array>
           </mxGeometry>
         </mxCell>
