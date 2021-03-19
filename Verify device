@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T05:03:55.014Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JNGUoyOYEGuy41u5UYo_" version="14.4.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-19T05:04:17.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="thXN1vxxlwX-op0guXSX" version="14.4.9" type="github" pages="8">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2600,7 +2600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3.3 Detect broken device" id="MZFGT0RhiUAAL_axEayD">
-    <mxGraphModel dx="2210" dy="-294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2793" dy="51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-0" />
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-1" parent="TBOAT7yt58Y0nQp3_HVj-0" />
@@ -2776,7 +2776,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-37" value="12. Response result" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="469.99999999999994" y="1830" width="120" height="20" as="geometry" />
+          <mxGeometry x="457.49999999999994" y="1830" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1.013;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TBOAT7yt58Y0nQp3_HVj-1" target="TBOAT7yt58Y0nQp3_HVj-35">
           <mxGeometry relative="1" as="geometry">
