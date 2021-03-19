@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T05:04:17.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="thXN1vxxlwX-op0guXSX" version="14.4.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-19T05:04:33.671Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="scdyxdrmjagoS8MxBLP3" version="14.4.9" type="github" pages="8">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2711,7 +2711,7 @@
           <mxGeometry x="405" y="1200" width="10" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-23" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
-          <mxGeometry x="325" y="1880" width="425" height="270" as="geometry" />
+          <mxGeometry x="325" y="1880" width="455" height="270" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-24" value="[Success]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TBOAT7yt58Y0nQp3_HVj-1">
           <mxGeometry x="325" y="1912.46" width="70" height="20" as="geometry" />
