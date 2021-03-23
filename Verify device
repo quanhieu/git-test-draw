@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:32:24.973Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="D1LckBaUszK2BGg_6NKO" version="14.4.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:32:33.527Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5PIGtLs97oA_1tV5yu0c" version="14.4.9" type="github" pages="8">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3023,6 +3023,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-400" y="1190" as="sourcePoint" />
             <mxPoint x="-421.57000000000016" y="2080.7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-401" y="1240" />
+              <mxPoint x="-401" y="1240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;exitX=0.54;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" parent="TBOAT7yt58Y0nQp3_HVj-1" source="TBOAT7yt58Y0nQp3_HVj-71" edge="1">
