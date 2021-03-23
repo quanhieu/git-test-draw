@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:31:42.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m9ZwqHZExaFaib9g3e52" version="14.4.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:32:24.973Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="D1LckBaUszK2BGg_6NKO" version="14.4.9" type="github" pages="8">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2063,7 +2063,7 @@
           <mxGeometry x="915.29" y="-920" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="QE3xnmGynsXxjUnKQOgO-18" value="3. Request verification for the Verify link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QE3xnmGynsXxjUnKQOgO-1" vertex="1">
-          <mxGeometry x="381.49" y="-900" width="230" height="20" as="geometry" />
+          <mxGeometry x="385.29" y="-900" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QE3xnmGynsXxjUnKQOgO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1.029;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.05;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QE3xnmGynsXxjUnKQOgO-1" source="KDd1CCsbLRxkiYHwFWST-2" edge="1" target="QE3xnmGynsXxjUnKQOgO-11">
           <mxGeometry relative="1" as="geometry">
@@ -2891,7 +2891,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-48" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="TBOAT7yt58Y0nQp3_HVj-1" vertex="1">
-          <mxGeometry x="-460.0000000000001" y="1140" width="120" height="50" as="geometry" />
+          <mxGeometry x="-460.0000000000001" y="1140.08" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TBOAT7yt58Y0nQp3_HVj-49" value="2. Request verification for the Verify link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="TBOAT7yt58Y0nQp3_HVj-1" vertex="1">
           <mxGeometry x="-680" y="1280" width="230" height="20" as="geometry" />
