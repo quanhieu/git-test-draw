@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T08:29:28.838Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="h_7uwGCZNr94j_FA4o6N" version="14.5.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-04-01T08:29:41.441Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="BdSiW7weDt4zj84GHxv4" version="14.5.3" type="github" pages="12">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3498,9 +3498,6 @@
         <mxCell id="7g9KvnXwQI_29l_MBktd-51" value="3. Check Inspection link is exist&lt;br&gt;- inspection_uuid and quotation_code&lt;br&gt;and, which is unexpired" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7g9KvnXwQI_29l_MBktd-1">
           <mxGeometry x="9.999999999999995" y="1420" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7g9KvnXwQI_29l_MBktd-58" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="7g9KvnXwQI_29l_MBktd-1">
-          <mxGeometry x="-750.1" y="1510" width="1180.1" height="490" as="geometry" />
-        </mxCell>
         <mxCell id="7g9KvnXwQI_29l_MBktd-59" value="[Unexpired]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7g9KvnXwQI_29l_MBktd-1">
           <mxGeometry x="-750" y="1560.0000000000002" width="80" height="20" as="geometry" />
         </mxCell>
@@ -3635,6 +3632,9 @@
         </mxCell>
         <mxCell id="97tmyYq8_Da1O95gr5Jz-0" value="&lt;b&gt;UPLOAD IMAGE AND VERIFICATION&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="7g9KvnXwQI_29l_MBktd-1">
           <mxGeometry x="-280" y="1170" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7g9KvnXwQI_29l_MBktd-58" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="7g9KvnXwQI_29l_MBktd-1">
+          <mxGeometry x="-750.1" y="1510" width="1180.1" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
