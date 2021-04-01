@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T07:28:14.257Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ciqDubn92v1LjH4snwNI" version="14.5.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-04-01T07:28:30.356Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8BdQ6V1kwn5abBput_fA" version="14.5.3" type="github" pages="11">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3275,7 +3275,7 @@
           <mxGeometry x="130" y="-429.7299999999998" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w3c-y1Oi7dhREBz2zPkv-28" value="[Reject]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="w3c-y1Oi7dhREBz2zPkv-1">
-          <mxGeometry x="130" y="-379.9999999999997" width="60" height="20" as="geometry" />
+          <mxGeometry x="130" y="-370.0599999999997" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w3c-y1Oi7dhREBz2zPkv-30" value="Zalopay-backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="w3c-y1Oi7dhREBz2zPkv-1">
           <mxGeometry x="431.88" y="-910" width="120" height="50" as="geometry" />
