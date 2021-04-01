@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T07:02:18.653Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="X58y9w4D86X0-bq0iz-I" version="14.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-01T07:02:53.610Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="T9zReu-cP_sZcTX-Mhz4" version="14.5.3" type="github" pages="10">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3127,8 +3127,8 @@
         <mxCell id="Frr0WS2RAPVnYNN07Glf-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Frr0WS2RAPVnYNN07Glf-1">
           <mxGeometry x="365" y="607" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Frr0WS2RAPVnYNN07Glf-20" value="7. Response Insured member&lt;br&gt;device item and&amp;nbsp; Display verify link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Frr0WS2RAPVnYNN07Glf-1">
-          <mxGeometry x="154.37999999999997" y="660" width="200" height="30" as="geometry" />
+        <mxCell id="Frr0WS2RAPVnYNN07Glf-20" value="7. Response Insured member&lt;br&gt;device item and Display inspection&amp;nbsp;link" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Frr0WS2RAPVnYNN07Glf-1">
+          <mxGeometry x="145.10999999999996" y="660" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Frr0WS2RAPVnYNN07Glf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="Frr0WS2RAPVnYNN07Glf-1" source="Frr0WS2RAPVnYNN07Glf-12">
           <mxGeometry relative="1" as="geometry">
