@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T08:37:15.608Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1zWPRorkdfj7eObOf8XL" version="14.5.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-04-01T08:38:10.717Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ce9-feczzhT54U3nn-DC" version="14.5.3" type="github" pages="12">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3416,10 +3416,11 @@
         <mxCell id="7g9KvnXwQI_29l_MBktd-1" parent="7g9KvnXwQI_29l_MBktd-0" />
         <mxCell id="7g9KvnXwQI_29l_MBktd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;exitX=0.414;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7g9KvnXwQI_29l_MBktd-1" source="7g9KvnXwQI_29l_MBktd-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-671" y="2165" as="targetPoint" />
+            <mxPoint x="-671" y="2150" as="targetPoint" />
             <mxPoint x="-671" y="2120" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-671" y="2165" />
+              <mxPoint x="-671" y="2140" />
+              <mxPoint x="-671" y="2140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3443,7 +3444,7 @@
         </mxCell>
         <mxCell id="7g9KvnXwQI_29l_MBktd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="7g9KvnXwQI_29l_MBktd-1" source="7g9KvnXwQI_29l_MBktd-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="2190" as="targetPoint" />
+            <mxPoint x="390" y="2150" as="targetPoint" />
             <mxPoint x="390" y="-39.66" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="390" y="2058.34" />
@@ -3472,11 +3473,10 @@
         </mxCell>
         <mxCell id="7g9KvnXwQI_29l_MBktd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;exitX=0.557;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7g9KvnXwQI_29l_MBktd-1" source="7g9KvnXwQI_29l_MBktd-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-360" y="2170" as="targetPoint" />
+            <mxPoint x="-360" y="2150" as="targetPoint" />
             <mxPoint x="-360" y="2177.46" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-359" y="2188.46" />
-              <mxPoint x="-360" y="2188.46" />
+              <mxPoint x="-359" y="2150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3485,7 +3485,7 @@
         </mxCell>
         <mxCell id="7g9KvnXwQI_29l_MBktd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeWidth=1;" edge="1" parent="7g9KvnXwQI_29l_MBktd-1" source="7g9KvnXwQI_29l_MBktd-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="2190" as="targetPoint" />
+            <mxPoint x="-40" y="2150" as="targetPoint" />
             <mxPoint x="-40" y="1437.62" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
