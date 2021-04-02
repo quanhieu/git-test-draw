@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T10:21:45.869Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Cr2Lj-N8lNUscJphe5Id" version="14.5.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-04-02T10:22:22.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="oxsep-SNqKmTahNRNvZ2" version="14.5.4" type="github" pages="12">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3585,7 +3585,7 @@
             <mxPoint x="-32.91000000000005" y="1633.348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7g9KvnXwQI_29l_MBktd-91" value="9. Update Inspection status&lt;br&gt;and make link IS USED" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7g9KvnXwQI_29l_MBktd-1" vertex="1">
+        <mxCell id="7g9KvnXwQI_29l_MBktd-91" value="9. Update Inspection status&lt;br&gt;and make link Is Used" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7g9KvnXwQI_29l_MBktd-1" vertex="1">
           <mxGeometry x="10.619999999999992" y="1855.04" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7g9KvnXwQI_29l_MBktd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7g9KvnXwQI_29l_MBktd-1" edge="1">
