@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T10:18:38.598Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YCNBbtkfVz6X-vnkGMR7" version="14.5.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-04-02T10:20:04.800Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="cCQbHpE6k1m0-d5OTBtp" version="14.5.4" type="github" pages="12">
   <diagram id="bIm0tkbnkGVUqDku5rxt" name="1. Buy IM device and create Verify link">
     <mxGraphModel dx="1360" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3410,7 +3410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3.3x Detect broken device" id="kZBdEX-dzLwPw3xv6S1S">
-    <mxGraphModel dx="1788" dy="-544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2210" dy="-294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7g9KvnXwQI_29l_MBktd-0" />
         <mxCell id="7g9KvnXwQI_29l_MBktd-1" parent="7g9KvnXwQI_29l_MBktd-0" />
