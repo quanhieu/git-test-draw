@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T04:26:27.921Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Lh8vNxUlQ-oaR19EMAuY" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T04:27:44.912Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ijrVWNl1vlF9Hv725CXj" version="14.7.10" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1660" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="hO5qz7p9oijjKZkBR4sG-77" value="4. Response result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="1660" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hO5qz7p9oijjKZkBR4sG-78" value="3. Modify Policy information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1480" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
